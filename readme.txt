@@ -35,10 +35,7 @@ Built for a commercial fishing operation that was managing container inventory m
 
 ---
 
-## Screenshots
 
-*[Add a screenshot of the upload interface here]*
-*[Add a screenshot of the processed output stats here]*
 
 ---
 
